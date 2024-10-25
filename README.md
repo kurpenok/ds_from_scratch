@@ -1,1 +1,1 @@
-# Data Science from Scratch
+# Code examples from book "Data Science from Scratch" 
